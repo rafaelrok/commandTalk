@@ -5,7 +5,7 @@ Este projeto consiste em criar uma aplicação de chat que funcione através do 
 <!--— Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 <p align="center">
-     <img alt="GitHub language count" src="https://img.shields.io/github/commit-status/rafaelrok/commandTalk/main/0d4a9c360f41bd33e2970edb2c3bdbec3ada6506?logo=git">
+     <img alt="GitHub language count" src="https://img.shields.io/github/commit-activity/w/rafaelrok/commandTalk">
      <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelrok/commandTalk?logo=github">
      <a href="https://twitter.com/RafaelV38440615">
       <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https://github.com/rafaelrok/commandTalk/edit/main/README.md">
@@ -14,13 +14,10 @@ Este projeto consiste em criar uma aplicação de chat que funcione através do 
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelrok/commandTalk">
      </a>
      <a href="https://github.com/rafaelrok/ms-sales/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/hexpm/l/apa?logo=apache">
+      <img alt="License" src="https://img.shields.io/github/license/rafaelrok/commandTalk">
      </a>  
      <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
       <img alt="Stargazers" src="https://img.shields.io/github/stars/rafaelrok/commandTalk?style=social">
-     </a>
-     <a href="https://medium.com/@rafael">
-      <img alt="medium" src="https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40rafael.">
      </a>
   </p>
 
